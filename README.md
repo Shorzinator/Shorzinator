@@ -1,13 +1,12 @@
-## Hi there, My name is Shourya - aka [Shorzinator] 👋
+### Hi there, My name is Shourya - aka [Shorzinator] 👋
 
-
-Here are some ideas to get you started:
-⁙ 🎓 I'm a Junior in College
-⁙ 🥋 I’m currently working on developing Data-related skills like Analysis, Simulation, Predictions, etc.
-⁙ 🌱 I’m currently learning how to obtain and clean data.
-⁙ 👯 I’m looking to collaborate on projects related to Data Science and Machine Learning.
-⁙ 🎮 Fun fact: I love to play action-adventure games.
-⁙ 💎 2020 Goals: Contribute more to Open Source projects
+## Welcome, to my GitHub Profile
+- 🎓 I'm a Junior in College
+- 🥋 I’m currently working on developing Data-related skills like Analysis, Simulation, Predictions, etc.
+- 🌱 I’m currently learning how to obtain and clean data.
+- 👯 I’m looking to collaborate on projects related to Data Science and Machine Learning.
+- 🎮 Fun fact: I love to play action-adventure games.
+- 💎 2020 Goals: Contribute more to Open Source projects
 
 
 ### 📫 How to reach me: 
@@ -15,8 +14,9 @@ Here are some ideas to get you started:
 [<img align="left" alt="Shorzinator | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+<br />
 
-### Tools that I use:
+### 🔧 Tools that I use:
 
 [<img align="left" alt="Atom" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
 
