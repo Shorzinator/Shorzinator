@@ -13,3 +13,21 @@ Here are some ideas to get you started:
 ### 📫 How to reach me: 
 [<img align="left" alt="Shorzinator | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Shorzinator | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+
+<br />
+
+[instagram]: https://www.instagram.com/shorzinator
+[linkedin]: https://www.linkedin.com/in/shourya-maheshwari-978606171/
+
+
+
+
+
+
+
+
+
