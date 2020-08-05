@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning how to obtain and clean data.
 - 👯 I’m looking to collaborate on projects related to Data Science and Machine Learning.
 - 🎮 Fun fact: I love to play action-adventure games.
-- 💎 2020 Goals: Contribute more to Open Source projects
+- 💎 2020 Goals: Learn, apply and disseminate knowledge
 
 
 ### 📫 How to reach me: 
