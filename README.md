@@ -18,9 +18,9 @@
 
 ### 🔧 Tools that I use:
 
-[<img align="left" alt="Atom" width="26px" src="https://user-images.githubusercontent.com/62899599/89465539-e9248000-d78f-11ea-89a3-bcb4d46056bd.png" />]
-[<img align="left" alt="Jetbrains" width="26px" src="https://user-images.githubusercontent.com/62899599/89465547-eaee4380-d78f-11ea-85b8-8e19c0d6f8ee.png" />]
-[<img align="left" alt="RStudio" width="26px" src="https://user-images.githubusercontent.com/62899599/89465552-eb86da00-d78f-11ea-9f41-b17d00bd6939.jpg" />]
+[<img align="left" alt="Atom" width="26px" src="https://user-images.githubusercontent.com/62899599/89465539-e9248000-d78f-11ea-89a3-bcb4d46056bd.png" />][linkedin]
+[<img align="left" alt="Jetbrains" width="26px" src="https://user-images.githubusercontent.com/62899599/89465547-eaee4380-d78f-11ea-85b8-8e19c0d6f8ee.png" />][linkedin]
+[<img align="left" alt="RStudio" width="26px" src="https://user-images.githubusercontent.com/62899599/89465552-eb86da00-d78f-11ea-9f41-b17d00bd6939.jpg" />][linkedin]
 
 <br />
 <br />
