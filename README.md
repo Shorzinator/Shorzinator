@@ -12,6 +12,8 @@
 ### 📫 How to reach me: 
 [<img align="left" alt="Shorzinator | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Shorzinator | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Shorzinator | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+
 
 <br />
 <br />
@@ -20,7 +22,9 @@
 
 [<img align="left" alt="Atom" width="26px" src="https://user-images.githubusercontent.com/62899599/89465539-e9248000-d78f-11ea-89a3-bcb4d46056bd.png" />][linkedin]
 [<img align="left" alt="Jetbrains" width="26px" src="https://user-images.githubusercontent.com/62899599/89465547-eaee4380-d78f-11ea-85b8-8e19c0d6f8ee.png" />][linkedin]
-[<img align="left" alt="RStudio" width="26px" src="https://user-images.githubusercontent.com/62899599/89465552-eb86da00-d78f-11ea-9f41-b17d00bd6939.jpg" />][linkedin]
+[<img align="left" alt="RStudio" width="26px" src="https://user-images.githubusercontent.com/62899599/89707316-84814500-d98a-11ea-8392-bd1af4a3fca8.png" />][linkedin]
+[<img align="left" alt="Anaconda" width="26px" src="https://user-images.githubusercontent.com/62899599/89707321-86e39f00-d98a-11ea-8992-343f9dc5a839.png" />][linkedin]
+
 
 <br />
 <br />
@@ -33,7 +37,7 @@
 
 [instagram]: https://www.instagram.com/shorzinator
 [linkedin]: https://www.linkedin.com/in/shourya-maheshwari-978606171/
-
+[gmail]: mailto::shouryamaheshwari5@gmail.com
 
 
 
