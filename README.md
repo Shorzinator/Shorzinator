@@ -20,7 +20,7 @@
 [<img align="left" alt="Shorzinator | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />][linkedin]
 [<img align="left" alt="Shorzinator | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/r.svg" />][linkedin]
 [<img align="left" alt="Shorzinator | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />][linkedin]
-[<img align="left" alt="Shorzinator | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cpp.svg" />][linkedin]
+[<img align="left" alt="Shorzinator | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c++.svg" />][linkedin]
 
 
 <br />
