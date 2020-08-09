@@ -2,7 +2,7 @@
 
 ## Welcome, to my GitHub Profile
 - 🎓 I'm a Junior in College
-- 🥋 I’m currently working on developing Data-related skills like Analysis, Simulation, Predictions, etc.
+- 🥋 I’m working on developing Data-related skills like Analysis, Simulation, Predictions, etc.
 - 🌱 I’m currently learning how to obtain and clean data.
 - 👯 I’m looking to collaborate on projects related to Data Science and Machine Learning.
 - 🎮 Fun fact: I love to play action-adventure games.
@@ -13,6 +13,14 @@
 [<img align="left" alt="Shorzinator | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Shorzinator | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Shorzinator | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+<br />
+<br />
+
+### 💬 Languages familiar with: 
+[<img align="left" alt="Shorzinator | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />][linkedin]
+[<img align="left" alt="Shorzinator | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/r.svg" />][linkedin]
+[<img align="left" alt="Shorzinator | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />][linkedin]
+[<img align="left" alt="Shorzinator | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cpp.svg" />][linkedin]
 
 
 <br />
