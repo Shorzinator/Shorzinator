@@ -1,12 +1,12 @@
 ### Hi there, My name is Shourya - aka [Shorzinator] 👋
 
 ## Welcome, to my GitHub Profile
-- 🎓 I'm a Junior in College
+- 🎓 I'm a Junior in College (6th semester).
 - 🥋 I’m working on developing Data-related skills like Analysis, Simulation, Predictions, etc.
-- 🌱 I’m currently learning how to do exploratory Data Anaylysis and Web Scraping.
+- 🌱 I’m currently learning how to make machine learning models and deep learning.
 - 👯 I’m looking to collaborate on projects related to Data Science and Machine Learning.
 - 🎮 Fun fact: I love to play action-adventure games.
-- 💎 2020 Goals: Learn, apply and disseminate knowledge.
+- 💎 2021 Goals: Learn, apply and disseminate knowledge.
 
 
 ### 📫 How to reach me: 
