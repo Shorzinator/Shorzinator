@@ -1,4 +1,4 @@
-### Hi there, My name is Shourya - aka [Shorzinator] 👋
+### Hi there, My name is Shourya - aka Shorzinator 👋
 
 ## Welcome, to my GitHub Profile
 - 🎓 I'm a Senior in College (7th semester).
