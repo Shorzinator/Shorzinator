@@ -1,12 +1,12 @@
 ### Hi there, My name is Shourya - aka Shorzinator 👋
 
 ## Welcome, to my GitHub Profile
-- 🎓 I'm a Senior in College (7th semester).
+- 🎓 I'm a Senior in College (8th semester).
 - 🥋 I’m working on developing skills related to Data Engineering, AI, and Problem Solving. 
-- 🌱 I’m currently learning about NLP and deep learning.
+- 🌱 I’m currently learning about Data Driven Astronomy.
 - 👯 I’m looking to collaborate on projects related to Data Science and Machine Learning.
 - 🎮 Fun fact: I love to play action-adventure games.
-- 💎 2021 Goals: Learn, apply and disseminate knowledge.
+- 💎 2022 Goals: Learn, apply and disseminate knowledge.
 
 
 ### 📫 How to reach me: 
