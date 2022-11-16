@@ -1,7 +1,7 @@
 ### Hi there, My name is Shourya - aka Shorzinator 👋
 
 ## Welcome, to my GitHub Profile
-- 🎓 I'm a Senior in College (8th semester).
+- 🎓 I'm a Graduate student at University of Wisconsin, Madison pursuing my Master's in Statistics and Data Science.
 - 🥋 I’m working on developing skills related to Data Engineering, AI, and Problem Solving. 
 - 🌱 I’m currently learning about Data Driven Astronomy.
 - 👯 I’m looking to collaborate on projects related to Data Science and Machine Learning.
