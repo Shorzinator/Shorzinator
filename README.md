@@ -3,7 +3,6 @@
 ## Welcome, to my GitHub Profile
 - 🎓 I'm a Graduate student at University of Wisconsin-Madison pursuing my Master's in Statistics and Data Science.
 - 🥋 I’m working on developing skills related to Data Engineering, AI, and Problem Solving. 
-- 🌱 I’m currently learning about Data Driven Astronomy.
 - 👯 I’m looking to collaborate on projects related to Data Science and Machine Learning.
 - 🎮 Fun fact: I love to play action-adventure games.
 - 💎 2023 Goals: Get an internship, be GREAT at R programming.
