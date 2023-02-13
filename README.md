@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning about Data Driven Astronomy.
 - 👯 I’m looking to collaborate on projects related to Data Science and Machine Learning.
 - 🎮 Fun fact: I love to play action-adventure games.
-- 💎 2022 Goals: Learn, apply and disseminate knowledge.
+- 💎 2023 Goals: Get an internship, be GREAT at R programming.
 
 
 ### 📫 How to reach me: 
