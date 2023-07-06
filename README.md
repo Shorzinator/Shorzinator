@@ -9,9 +9,9 @@ I'm a Graduate Student 🎓 at the University of Wisconsin-Madison, majoring in 
 - 🌟 Master R programming
 
 ## 📬 Connect with me:
-<a href="https://www.linkedin.com/in/shourya-maheshwari-978606171/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/shm5"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/shorzinator"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"></a>
-<a href="mailto:shouryamaheshwari5@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"></a>
+<a href="mailto:smaheshwari7@wisc.edu"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"></a>
 
 ## 🛠️ Skills
 <p>
