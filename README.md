@@ -1,56 +1,53 @@
-### Hi there, My name is Shourya - aka Shorzinator 👋
+# 👋🔥 Hello World, I'm Shourya - aka Shorzinator
 
-## Welcome, to my GitHub Profile
-- 🎓 I'm a Graduate student at University of Wisconsin-Madison pursuing my Master's in Statistics and Data Science.
-- 🥋 I’m working on developing skills related to Data Engineering, AI, and Problem Solving. 
-- 👯 I’m looking to collaborate on projects related to Data Science and Machine Learning.
-- 🎮 Fun fact: I love to play action-adventure games.
-- 💎 2023 Goals: Get an internship, be GREAT at R programming.
+![Profile Views](https://komarev.com/ghpvc/?username=shorzinator&color=blueviolet)
 
+I'm a Graduate Student 🎓 at the University of Wisconsin-Madison, majoring in Statistics and Data Science. My passion lies in Data Engineering, Artificial Intelligence, and Problem Solving. Always ready to collaborate on any exciting Data Science and Machine Learning projects. In my free time, you'll find me immersed in action-adventure games 🎮.
 
-### 📫 How to reach me: 
-[<img align="left" alt="Shorzinator | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Shorzinator | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Shorzinator | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-<br />
-<br />
+## 🚀 2023 Goals
+- 🤝 Secure an Internship
+- 🌟 Master R programming
 
-### 💬 Programming Languages familiar with: 
-[<img align="left" alt="Shorzinator | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />][linkedin]
-[<img align="left" alt="Shorzinator | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/r.svg" />][linkedin]
-[<img align="left" alt="Shorzinator | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />][linkedin]
-[<img align="left" alt="Shorzinator | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg" />][linkedin]
-[<img align="left" alt="Shorzinator | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />][linkedin]
+## 📬 Connect with me:
+<a href="https://www.linkedin.com/in/shourya-maheshwari-978606171/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"></a>
+<a href="https://www.instagram.com/shorzinator"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"></a>
+<a href="mailto:shouryamaheshwari5@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"></a>
 
+## 🛠️ Skills
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white"/>
+  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white"/>
+  <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white"/>
+  <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
+  <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
+  <img alt="Scala" src="https://img.shields.io/badge/-Scala-DC322F?style=flat&logo=scala&logoColor=white"/>
+  <img alt="Apache Spark" src="https://img.shields.io/badge/-Apache_Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white"/>
+</p>
 
-<br />
-<br />
+## 🧰 Tools & Technologies:
+<p>
+  <img alt="Atom" src="https://img.shields.io/badge/-Atom-66595C?style=flat&logo=atom&logoColor=white"/>
+  <img alt="Jetbrains" src="https://img.shields.io/badge/-Jetbrains-000000?style=flat&logo=jetbrains&logoColor=white"/>
+  <img alt="RStudio" src="https://img.shields.io/badge/-RStudio-75AADB?style=flat&logo=rstudio&logoColor=white"/>
+  <img alt="Anaconda" src="https://img.shields.io/badge/-Anaconda-44A833?style=flat&logo=anaconda&logoColor=white"/>
+  <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/>
+  <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/>
+  <img alt="Keras" src="https://img.shields.io/badge/-Keras-D00000?style=flat&logo=Keras&logoColor=white"/>
+  <img alt="Scikit-Learn" src="https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
+  <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/>
+  <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white"/>
+  <img alt="Google Cloud" src="https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white"/>
+  <img alt="Azure" src="https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white"/>
+  <img alt="Apache Kafka" src="https://img.shields.io/badge/-Apache_Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white"/>
+  <img alt="Hadoop" src="https://img.shields.io/badge/-Hadoop-0F79A8?style=flat&logo=hadoop&logoColor=white"/>
+</p>
 
-### 🔧 Tools that I use:
+## 📊 GitHub Stats
+<img align="left" alt="Shorzinators Github Stats" src="https://github-readme-stats.vercel.app/api?username=shorzinator&show_icons=true&hide_border=true&theme=dark" />
 
-[<img align="left" alt="Atom" width="26px" src="https://user-images.githubusercontent.com/62899599/89465539-e9248000-d78f-11ea-89a3-bcb4d46056bd.png" />][linkedin]
-[<img align="left" alt="Jetbrains" width="26px" src="https://user-images.githubusercontent.com/62899599/89465547-eaee4380-d78f-11ea-85b8-8e19c0d6f8ee.png" />][linkedin]
-[<img align="left" alt="RStudio" width="26px" src="https://user-images.githubusercontent.com/62899599/89707316-84814500-d98a-11ea-8392-bd1af4a3fca8.png" />][linkedin]
-[<img align="left" alt="Anaconda" width="26px" src="https://user-images.githubusercontent.com/62899599/89707321-86e39f00-d98a-11ea-8992-343f9dc5a839.png" />][linkedin]
-
-
-<br />
-<br />
-
-<img align="left" alt="Shorzinators Github Stats" src="https://github-readme-stats.vercel.app/api?username=shorzinator&show_icons=true&hide_border=true&theme=gruvbox" />
-
-<br />
-<br />
-<br />
-
-[instagram]: https://www.instagram.com/shorzinator
-[linkedin]: https://www.linkedin.com/in/shourya-maheshwari-978606171/
-[gmail]: mailto::shouryamaheshwari5@gmail.com
-
-
-
-
-
-
-
-
+### 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
