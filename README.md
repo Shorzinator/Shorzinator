@@ -5,8 +5,8 @@
 I'm a Graduate Student 🎓 at the University of Wisconsin-Madison, majoring in Statistics and Data Science. My passion lies in Data Engineering, Artificial Intelligence, and Problem Solving. Always ready to collaborate on any exciting Data Science and Machine Learning projects. In my free time, you'll find me immersed in action-adventure games 🎮.
 
 ## 🚀 2023 Goals
-- 🤝 Secure an Internship
-- 🌟 Master R programming
+- 🤝 Increase self-worth
+- 🌟 Practice, Practice, Practice
 
 ## 📬 Connect with me:
 <a href="https://www.linkedin.com/in/shm5"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"></a>
