@@ -1,4 +1,4 @@
-# 👋🔥 Hello World, I'm Shourya - aka Shorzinator
+# 👋🔥 Hello World, I'm Shourya
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shorzinator&color=blueviolet)
 
