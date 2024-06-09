@@ -17,12 +17,8 @@ I graduated with a master's in Statistics and Data Science from the University o
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white"/>
-  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white"/>
-  <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white"/>
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
-  <img alt="Scala" src="https://img.shields.io/badge/-Scala-DC322F?style=flat&logo=scala&logoColor=white"/>
-  <img alt="Apache Spark" src="https://img.shields.io/badge/-Apache_Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white"/>
 </p>
 
 ## 🧰 Tools & Technologies:
