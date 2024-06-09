@@ -2,9 +2,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shorzinator&color=blueviolet)
 
-I'm a Graduate Student 🎓 at the University of Wisconsin-Madison, majoring in Statistics and Data Science. My passion lies in Data Engineering, Artificial Intelligence, and Problem Solving. Always ready to collaborate on any exciting Data Science and Machine Learning projects. In my free time, you'll find me immersed in action-adventure games 🎮.
+I graduated with a master's in Statistics and Data Science from the University of Wisconsin-Madison. Always ready to collaborate on any exciting Data Science and Machine Learning projects. In my free time, you'll find me immersed in action-adventure games 🎮.
 
-## 🚀 2023 Goals
+## 🚀 2024 Goals
 - 🤝 Increase self-worth
 - 🌟 Practice, Practice, Practice
 
