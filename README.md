@@ -79,14 +79,6 @@ In my free time, you'll find me immersed in **action-adventure games** 🎮 or e
 <img align="left" alt="Shourya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shorzinator&show_icons=true&hide_border=true&theme=dark" />
 
 <br/>
-
----
-
-### 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- If you have a blog, these entries can be auto-generated. More details at https://github.com/gautamkrishnar/blog-post-workflow -->
-<!-- BLOG-POST-LIST:END -->
-
 ---
 
 ### ⚡ Fun Fact
