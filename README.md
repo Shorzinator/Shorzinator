@@ -79,7 +79,6 @@ In my free time, you'll find me immersed in **action-adventure games** 🎮 or e
 <img align="left" alt="Shourya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shorzinator&show_icons=true&hide_border=true&theme=dark" />
 
 <br/>
----
 
 ### ⚡ Fun Fact
 > I’m always up for trying new frameworks or testing out the latest AI models. If you have something cool to share, **let’s talk**—I love exploring emerging tech and bringing creative ideas to life!
