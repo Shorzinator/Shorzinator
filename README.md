@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20World!&fontSize=70&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=200&section=header&text=Hello%20World!&fontSize=70&animation=twinkling" width="100%" />
 </div>
 
 # 🚀 Shourya Maheshwari
@@ -8,12 +8,12 @@
   <a href="https://www.linkedin.com/in/shm5"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
   <a href="mailto:smaheshwari7@wisc.edu"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></a>
   <a href="https://www.instagram.com/shorzinator"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-  <img src="https://komarev.com/ghpvc/?username=shorzinator&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Shorzinator&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ## 🧑‍💻 About Me
 
-Welcome to my GitHub profile! I'm a passionate data professional currently working as a **Business Architecture Analyst at Accenture**. I hold a Master's degree in **Statistics and Data Science** from the University of Wisconsin-Madison. My expertise lies at the intersection of AI, data engineering, and business strategy.
+Welcome to my GitHub profile! I'm a passionate data professional currently working as a **Business Architecture Analyst at Accenture**. I hold a Master's degree in **Statistics and Data Science** [...]
 
 - 🔭 **Currently working on:** Expanding my expertise in Machine Learning, AI frameworks, and scalable Data Engineering.
 - 🤝 **Looking to collaborate on:** Open-source AI projects, data-driven applications, and innovative tech solutions.
@@ -64,10 +64,10 @@ Welcome to my GitHub profile! I'm a passionate data professional currently worki
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shorzinator&show_icons=true&hide_border=true&theme=radium&bg_color=0D1117" alt="Shourya's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shorzinator&theme=radium&hide_border=true&background=0D1117" alt="Shourya's GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shorzinator&show_icons=true&hide_border=true&theme=radium&bg_color=0D1117" alt="Shourya's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shorzinator&theme=radium&hide_border=true&background=0D1117" alt="Shourya's GitHub Streak" width="48%" />
+</p>
 
 <br/>
 
